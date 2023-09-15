@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Materials/MI_EmitColor.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemies.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/CS498 MP1 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
